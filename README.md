@@ -4,6 +4,7 @@ This is a simple windows based software that takes a value to encrypt and the sa
 Once the image is encrypted it cannot be open by any image viewer or decrypted unless the same value and this software is used.
 
 The Software uses following technology:
+
 i) JDK 15
 ii) Java Swing
 iii) Java AWT
